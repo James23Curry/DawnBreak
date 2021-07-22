@@ -1,3 +1,5 @@
 DawnBreak
 
 ipconfig
+
+netstat
